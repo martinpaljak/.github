@@ -1,1 +1,1 @@
-Contact martin@martinpaljak.net. For sensitive information use [PGP](http://pgp.mit.edu/pks/lookup?op=vindex&search=0xB857FE05C31441A2) or [Signal](https://signal.org/download/) with tel:+3725156495.
+Contact martin@martinpaljak.net. For sensitive information use [PGP](http://pgp.mit.edu/pks/lookup?op=vindex&search=0xB857FE05C31441A2) or [Signal](https://signal.org/download/) with [tel:+3725156495](tel:+3725156495).
