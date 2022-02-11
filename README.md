@@ -1,1 +1,1 @@
-# .github for @martinpaljak
+# `.github` for [@martinpaljak](https://github.com/martinpaljak)
